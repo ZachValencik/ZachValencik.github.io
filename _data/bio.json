@@ -21,19 +21,11 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Zachary-Valencik",
+        "url": "https://www.linkedin.com/in/zachary-valencik-52bb061b5/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+    
+     
     ]
   },
   "interests": [
