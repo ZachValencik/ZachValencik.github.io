@@ -2,7 +2,7 @@
   "basics": {
     "name": "Zachary Valencik",
     "label": "Student",
-    "picture": "https://zachvalencik.github.io/images/techphoto.png",
+    "picture": "https://zachvalencik.github.io/images/techphoto.jpg",
     "email": "zvalencik01@aurora.edu",
     "phone": "630-486-2222",
     "website": "https://zachvalencik.github.io",
@@ -30,34 +30,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C#",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        
       ]
     },
     {
